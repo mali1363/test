@@ -1,0 +1,27 @@
+body {background: rgb(174, 142, 204);}
+#register input  {border: solid 0.09rem;
+border-radius: 20px;
+padding: 5px;
+margin: 5px;
+}
+#register button {border: solid 0.09rem;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 5px;
+padding-left: 12px;
+padding-right: 12px;
+background: greenyellow;
+transition-delay: 100ms;
+margin-left:50px;}
+#register button:hover {border: solid 0.09rem;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 5px;
+padding-left: 12px;
+padding-right: 12px;
+background: rgb(47, 161, 255);
+transition-delay: 100ms;
+margin-left:50px;}
+
+img {border-radius:20px;}
+
