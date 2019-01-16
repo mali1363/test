@@ -1,0 +1,646 @@
+body{
+    direction: rtl;
+}
+hr{
+    width: 850px;
+}
+.pic img{
+    margin:10px 10px 0 60px;
+}
+.rate{
+    text-align: right;
+    margin-top:10px;
+}
+.right{
+    margin: 20px 10px 0 100px;;
+}
+/* ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg */
+input[type="radio"]{
+    display: none;
+    }
+.right .d-flex{
+    font-size: 25px;
+}
+.left .d-flex{
+    font-size: 25px;
+}
+.right div label{
+    margin-bottom: 35px;
+}
+.left div label{
+    margin-bottom: 35px;
+    
+}
+.rate .far{
+    color:rgb(175, 175, 175);
+}
+.rate i{
+    cursor: pointer;
+}
+    .star11 label{
+        display:inline-block;
+        position: relative;
+    }
+    .star11 label i{
+        position: absolute;
+    }
+    .star11 label span{
+        display:block;
+        position: absolute;
+        color: gold;
+    }
+    .star11 label span i{
+        opacity: 0;
+        margin: 0;
+        display:block;
+        position: absolute;
+        transition: all 200ms;
+    
+    }
+    .star12{
+        margin-right: 35px;
+    }
+    .star12 label{
+        display:inline-block;
+        position: relative;
+    }
+    .star12 label i{
+        position: absolute;
+    }
+    .star12 label span{
+        display:block;
+        position: absolute;
+        color: gold;
+    }
+    .star12 label span i{
+        opacity: 0;
+        margin: 0;
+        display:block;
+        position: absolute;
+        transition: all 200ms;
+    }
+    .star13{
+        margin-right: 35px;
+    }
+    .star13 label{
+        display:inline-block;
+        position: relative;
+    }
+    .star13 label i{
+        position: absolute;
+    }
+    .star13 label span{
+        display:block;
+        position: absolute;
+        color: gold;
+    }
+    .star13 label span i{
+        opacity: 0;
+        margin: 0;
+        display:block;
+        position: absolute;
+        transition: all 200ms;
+    }.star14{
+        margin-right: 35px;
+    }
+    .star14 label{
+        display:inline-block;
+        position: relative;
+    }
+    .star14 label i{
+        position: absolute;
+    }
+    .star14 label span{
+        display:block;
+        position: absolute;
+        color: gold;
+    }
+    .star14 label span i{
+        opacity: 0;
+        margin: 0;
+        display:block;
+        position: absolute;
+        transition: all 200ms;
+    }
+    .star15{
+        margin-right: 35px;
+    }
+    .star15 label{
+        display:inline-block;
+        position: relative;
+    }
+    .star15 label i{
+        position: absolute;
+    }
+    .star15 label span{
+        display:block;
+        position: absolute;
+        color: gold;
+    }
+    .star15 label span i{
+        opacity: 0;
+        margin: 0;
+        display:block;
+        position: absolute;
+        transition: all 200ms;
+    }
+    .star21 label{
+        display:inline-block;
+        position: relative;
+    }
+    .star21 label i{
+        position: absolute;
+    }
+    .star21 label span{
+        display:block;
+        position: absolute;
+        color: gold;
+    }
+    .star21 label span i{
+        opacity: 0;
+        margin: 0;
+        display:block;
+        position: absolute;
+        transition: all 200ms;
+    }
+    .star22{
+        margin-right: 35px;
+    }
+    .star22 label{
+        display:inline-block;
+        position: relative;
+    }
+    .star22 label i{
+        position: absolute;
+    }
+    .star22 label span{
+        display:block;
+        position: absolute;
+        color: gold;
+    }
+    .star22 label span i{
+        opacity: 0;
+        margin: 0;
+        display:block;
+        position: absolute;
+        transition: all 200ms;
+    }
+    .star23{
+        margin-right: 35px;
+    }
+    .star23 label{
+        display:inline-block;
+        position: relative;
+    }
+    .star23 label i{
+        position: absolute;
+    }
+    .star23 label span{
+        display:block;
+        position: absolute;
+        color: gold;
+    }
+    .star23 label span i{
+        opacity: 0;
+        margin: 0;
+        display:block;
+        position: absolute;
+        transition: all 200ms;
+    }.star24{
+        margin-right: 35px;
+    }
+    .star24 label{
+        display:inline-block;
+        position: relative;
+    }
+    .star24 label i{
+        position: absolute;
+    }
+    .star24 label span{
+        display:block;
+        position: absolute;
+        color: gold;
+    }
+    .star24 label span i{
+        opacity: 0;
+        margin: 0;
+        display:block;
+        position: absolute;
+        transition: all 200ms;
+    }
+    .star25{
+        margin-right: 35px;
+    }
+    .star25 label{
+        display:inline-block;
+        position: relative;
+    }
+    .star25 label i{
+        position: absolute;
+    }
+    .star25 label span{
+        display:block;
+        position: absolute;
+        color: gold;
+    }
+    .star25 label span i{
+        opacity: 0;
+        margin: 0;
+        display:block;
+        position: absolute;
+        transition: all 200ms;
+    }
+    .star31 label{
+        display:inline-block;
+        position: relative;
+    }
+    .star31 label i{
+        position: absolute;
+    }
+    .star31 label span{
+        display:block;
+        position: absolute;
+        color: gold;
+    }
+    .star31 label span i{
+        opacity: 0;
+        margin: 0;
+        display:block;
+        position: absolute;
+        transition: all 200ms;
+    }
+    .star32{
+        margin-right: 35px;
+    }
+    .star32 label{
+        display:inline-block;
+        position: relative;
+    }
+    .star32 label i{
+        position: absolute;
+    }
+    .star32 label span{
+        display:block;
+        position: absolute;
+        color: gold;
+    }
+    .star32 label span i{
+        opacity: 0;
+        margin: 0;
+        display:block;
+        position: absolute;
+        transition: all 200ms;
+    }
+    .star33{
+        margin-right: 35px;
+    }
+    .star33 label{
+        display:inline-block;
+        position: relative;
+    }
+    .star33 label i{
+        position: absolute;
+    }
+    .star33 label span{
+        display:block;
+        position: absolute;
+        color: gold;
+    }
+    .star33 label span i{
+        opacity: 0;
+        margin: 0;
+        display:block;
+        position: absolute;
+        transition: all 200ms;
+    }.star34{
+        margin-right: 35px;
+    }
+    .star34 label{
+        display:inline-block;
+        position: relative;
+    }
+    .star34 label i{
+        position: absolute;
+    }
+    .star34 label span{
+        display:block;
+        position: absolute;
+        color: gold;
+    }
+    .star34 label span i{
+        opacity: 0;
+        margin: 0;
+        display:block;
+        position: absolute;
+        transition: all 200ms;
+    }
+    .star35{
+        margin-right: 35px;
+    }
+    .star35 label{
+        display:inline-block;
+        position: relative;
+    }
+    .star35 label i{
+        position: absolute;
+    }
+    .star35 label span{
+        display:block;
+        position: absolute;
+        color: gold;
+    }
+    .star35 label span i{
+        opacity: 0;
+        margin: 0;
+        display:block;
+        position: absolute;
+        transition: all 200ms;
+    }
+    .star41 label{
+        display:inline-block;
+        position: relative;
+    }
+    .star41 label i{
+        position: absolute;
+    }
+    .star41 label span{
+        display:block;
+        position: absolute;
+        color: gold;
+    }
+    .star41 label span i{
+        opacity: 0;
+        margin: 0;
+        display:block;
+        position: absolute;
+        transition: all 200ms;
+    }
+    .star42{
+        margin-right: 35px;
+    }
+    .star42 label{
+        display:inline-block;
+        position: relative;
+    }
+    .star42 label i{
+        position: absolute;
+    }
+    .star42 label span{
+        display:block;
+        position: absolute;
+        color: gold;
+    }
+    .star42 label span i{
+        opacity: 0;
+        margin: 0;
+        display:block;
+        position: absolute;
+        transition: all 200ms;
+    }
+    .star43{
+        margin-right: 35px;
+    }
+    .star43 label{
+        display:inline-block;
+        position: relative;
+    }
+    .star43 label i{
+        position: absolute;
+    }
+    .star43 label span{
+        display:block;
+        position: absolute;
+        color: gold;
+    }
+    .star43 label span i{
+        opacity: 0;
+        margin: 0;
+        display:block;
+        position: absolute;
+        transition: all 200ms;
+    }.star44{
+        margin-right: 35px;
+    }
+    .star44 label{
+        display:inline-block;
+        position: relative;
+    }
+    .star44 label i{
+        position: absolute;
+    }
+    .star44 label span{
+        display:block;
+        position: absolute;
+        color: gold;
+    }
+    .star44 label span i{
+        opacity: 0;
+        margin: 0;
+        display:block;
+        position: absolute;
+        transition: all 200ms;
+    }
+    .star45{
+        margin-right: 35px;
+    }
+    .star45 label{
+        display:inline-block;
+        position: relative;
+    }
+    .star45 label i{
+        position: absolute;
+    }
+    .star45 label span{
+        display:block;
+        position: absolute;
+        color: gold;
+    }
+    .star45 label span i{
+        opacity: 0;
+        margin: 0;
+        display:block;
+        position: absolute;
+        transition: all 200ms;
+    } .star51 label{
+        display:inline-block;
+        position: relative;
+    }
+    .star51 label i{
+        position: absolute;
+    }
+    .star51 label span{
+        display:block;
+        position: absolute;
+        color: gold;
+    }
+    .star51 label span i{
+        opacity: 0;
+        margin: 0;
+        display:block;
+        position: absolute;
+        transition: all 200ms;
+    }
+    .star52{
+        margin-right: 35px;
+    }
+    .star52 label{
+        display:inline-block;
+        position: relative;
+    }
+    .star52 label i{
+        position: absolute;
+    }
+    .star52 label span{
+        display:block;
+        position: absolute;
+        color: gold;
+    }
+    .star52 label span i{
+        opacity: 0;
+        margin: 0;
+        display:block;
+        position: absolute;
+        transition: all 200ms;
+    }
+    .star53{
+        margin-right: 35px;
+    }
+    .star53 label{
+        display:inline-block;
+        position: relative;
+    }
+    .star53 label i{
+        position: absolute;
+    }
+    .star53 label span{
+        display:block;
+        position: absolute;
+        color: gold;
+    }
+    .star53 label span i{
+        opacity: 0;
+        margin: 0;
+        display:block;
+        position: absolute;
+        transition: all 200ms;
+    }.star54{
+        margin-right: 35px;
+    }
+    .star54 label{
+        display:inline-block;
+        position: relative;
+    }
+    .star54 label i{
+        position: absolute;
+    }
+    .star54 label span{
+        display:block;
+        position: absolute;
+        color: gold;
+    }
+    .star54 label span i{
+        opacity: 0;
+        margin: 0;
+        display:block;
+        position: absolute;
+        transition: all 200ms;
+    }
+    .star55{
+        margin-right: 35px;
+    }
+    .star55 label{
+        display:inline-block;
+        position: relative;
+    }
+    .star55 label i{
+        position: absolute;
+    }
+    .star55 label span{
+        display:block;
+        position: absolute;
+        color: gold;
+    }
+    .star55 label span i{
+        opacity: 0;
+        margin: 0;
+        display:block;
+        position: absolute;
+        transition: all 200ms;
+    }
+/* ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg */
+.right h4{
+    font-size:15px;
+}
+.left{
+    margin-top:20px; 
+}
+.left h4{
+    font-size:15px;
+}
+.rightd{
+    text-align: right;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+.rightd label{
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+#nazar{
+    padding: 10px 10px 10px 274px;
+    border-radius:5px;
+    border: 1px rgb(202, 202, 202) solid; 
+}
+ul{
+    margin-top: 30px;
+    padding-right: 15px;
+    font-size: 17px;
+}
+ul li:first-child{
+    margin-left: 150px;
+}
+#qovat{
+    padding: 10px 10px 10px 34px;
+    border-radius:5px;
+    border: 1px rgb(202, 202, 202) solid; 
+}
+#zaf{
+    padding: 10px 10px 10px 34px;
+    margin-right: 24px;
+    border-radius:5px;
+    border: 1px rgb(202, 202, 202) solid; 
+}
+textarea{
+    border-radius:5px;
+    border: 1px rgb(202, 202, 202) solid; 
+    padding: 10px;
+}
+button{
+    border: unset;
+    color: #fff;
+    padding:10px 60px;
+    background: rgb(62, 193, 199);
+    font-size: 18px;
+    margin-top: 30px;
+    transition: all 200ms;
+}
+button:hover{
+        background: rgb(239, 90, 136);
+}
+.dowt{
+    max-width: 260px;
+    font-size: 13px;
+    margin: 30px 10px 0 0;
+}
+.bbt{
+    margin-bottom: 30px;
+}
+.leftd{
+    text-align: right;
+    margin: 40px 50px ;
+}
+.leftd p{
+    margin-top: 60px;
+    word-spacing: 5px;
+    font-size: 16px;
+}

@@ -1,0 +1,19 @@
+body{
+  direction: rtl;
+  text-align: justify;
+  margin:30px 60px 0 150px;
+  font-size: 15px;
+}
+h2{
+  margin: 50px 0;
+}
+p{
+  word-spacing: 10px;
+  text-align: justify;
+}
+ol li{
+  text-align: justify;
+  word-spacing: 5px;
+  padding: 10px;
+
+}

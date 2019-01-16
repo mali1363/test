@@ -1,0 +1,662 @@
+.share{
+    border-radius: 50%;
+    margin:20px 0 0 40px;
+    padding: 9px 15px 8px 0;
+    float: left;
+    color: rgb(109, 108, 108);
+    font-size: 20px;
+    text-align:center;
+    transition: all 300ms;
+}
+.share:hover{
+    box-shadow: 0 0 5px rgb(180, 180, 180, .8);
+}
+.info{
+    direction: rtl;
+    float: left;
+    margin-left: 50px;
+    margin-top: 60px;
+    }
+.col{
+    position: relative;
+    margin-top: 10px;
+}
+.color{
+    float: right;
+    position: absolute;
+}
+.pric{
+position: absolute;
+}
+.p-2{
+    margin-right: 105px;
+    margin-top: 21px;
+}
+.p-1{
+    margin-top: 23px;
+    margin-right: 3px;
+}
+.watch{
+    margin: 30px 0 10px 5px;
+}
+.watch-one{
+    border: 2px rgb(62, 193, 199) solid;
+}
+.watch-two{    
+    border: 2px rgb(221, 221, 221) solid;
+}
+.watch img{
+    margin-left: 10px;
+    transition: all 200ms linear; 
+    cursor: pointer;
+}
+.watch img:hover{
+    opacity: .7;
+}
+.btns{
+    padding-right: 0 !important;
+    max-width: 500px !important;
+}
+.btn{
+    width: 250px;
+    margin:10px 0 0 0 !important;
+    background-color: #fff !important;
+    border: 1px solid rgb(109, 108, 108, .5) !important;
+    color: #000 !important;
+    border-radius: 0 !important;
+    box-shadow: 0 0 0 #000 !important;
+    padding: 8px 8px 8px 0 !important;
+    text-align: right !important;
+
+}
+.dropdown-menu{
+    text-align: right !important;
+    margin:3px 0 3px 234px !important;
+    padding: 0 0 10px 156px !important;
+}
+.buy-btn{
+    color: #fff;
+    background-color: rgb(239, 90, 136);
+    padding: 8px 45px 8px 60px;
+    text-align: center; 
+    border: unset;
+    margin-top: 8px;
+    transition: all 200ms;
+    cursor: pointer;
+}
+.buy-btn:hover{
+    background-color: rgb(230, 74, 123);
+}
+.fas{
+    margin-left: 15px;
+
+}
+.fa-heart{
+    color: #fff;
+    filter: drop-shadow( 0 0 0 rgb(65, 65, 65));
+    text-shadow:  0 0 1px rgb(65, 65, 65);
+    text-shadow:  0 0 1px rgb(65, 65, 65);
+    font-size: 40px;
+    margin: 8px 10px 0 0 ;
+    transition: color 400ms ;
+    cursor: pointer;
+    
+}
+.fa-heart:hover{
+    color: rgb(239, 90, 136);
+    text-shadow: 0 0 0 #fff;
+    filter: drop-shadow( 0 0 0 #fff);
+}
+.war{
+margin: 10px 0 0 0;    
+}
+.war a{
+    margin:10px 3px;
+    text-decoration: none;
+    color: rgb(126, 126, 126);
+    font-style: oblique;
+    font-size: 11px;
+    transition: all 400ms;
+}
+.war a:hover{
+    color: #000;
+}
+ul{
+  color: rgb(77, 77, 77);
+  font-size: 13px;
+  padding-right: 10px;
+}
+.pro{
+    text-align: right;
+}
+.pushme{
+    background-color: #fff;
+    margin: 0 150px 0 0;
+    color:rgb(172, 172, 172);
+    border: unset;
+    transition: all 300ms;
+    text-align: center;
+
+}
+.pushme:hover{
+    color: rgb(43, 43, 43);
+}
+.fad1{
+    opacity: .5;
+    transition: all 300ms;
+
+}
+.fad2{
+    opacity: .2;
+    transition: all 300ms;
+}
+.fad{
+    opacity: 1;
+}
+.lli{
+    display: none;
+}
+.slid{
+  padding-top: 50px;
+  transition: all 200ms;
+  margin-left: 60px;
+}
+.slidfor{
+    margin-left: 752px;
+}
+.slidfor img{
+    width: 380px;
+}
+.slidnav{
+width: 650px;
+margin: 10px 200px 10px 600px 
+
+}
+.slidnav img{
+    width: 100px;
+    border: 1px solid rgb(221, 221, 221);
+    padding: 2px;
+    transition: all 200ms;
+
+}
+.slidnav img:hover{
+    border: 2px rgb(62, 193, 199) solid;
+    padding:2px;
+    
+}
+/* fesefsdfsdfedewfwefwefewf */
+.sslid{
+    padding-top: 50px;  
+    display: none;
+    transition: all 200ms;
+      margin-left: 60px;
+
+
+}
+.sslidfor{
+      margin-left: 752px;
+}
+.sslidfor img{
+      width: 380px;
+}
+.sslidnav{
+  width: 650px;
+  margin: 10px 200px 10px 600px 
+  
+}
+.sslidnav img{
+      width: 100px;
+      border: 1px solid rgb(221, 221, 221) ;
+      padding: 2px;
+      transition: all 200ms;
+}
+.sslidnav img:hover{
+      border: 2px rgb(62, 193, 199) solid;
+      padding:1px; 
+}
+.tabss{
+      direction: rtl !important;
+}
+.nav{
+     margin: 150px 240px 0 200px !important;
+}
+.nav > li > a{
+    color: rgb(58, 58, 58) !important;
+    border: none !important;
+    text-align: center !important;
+    transition: all 300ms;
+    margin: 20px 0 20px 20px !important;
+    font-size: 18px !important;
+    padding:0 25px 0 1px!important;
+}
+.nav > li > a:hover{
+      background-color: transparent !important;
+      color: #000 !important;
+}
+.nav-tabs{
+      border: none !important;
+}
+.active{
+    border-bottom: 1px solid rgb(0, 0, 0) !important;
+}
+.active:hover {
+      background:transparent !important;
+}
+#home{
+    border: none !important;
+    color: #000;
+    padding-top:30px;
+}
+#home h5{
+    color: rgb(51, 51, 51);
+    margin-left: 914px;
+}
+#home h2{
+    margin-left: 840px;
+}
+#home .d-flex{
+margin-top: 100px;
+font-size: 16px;
+}
+#home p{
+    text-align: right;
+}
+#home i{
+    margin-top: 30px;
+}
+.fad3{
+    opacity: .5;
+    transition: all 300ms;
+
+}
+.fad4{
+    opacity: .2;
+    transition: all 300ms;
+}
+.fad5{
+    opacity: 1;
+}
+.lli2{
+    display: none;
+}
+.pushme2{
+    background-color: transparent;
+    margin: 0 0 0 440px;
+    color:rgb(126, 125, 125);
+    border: unset;
+    transition: all 300ms;
+}
+.pushme2:hover{
+    color: rgb(43, 43, 43);
+}
+.d1{
+    width: 300px;
+    background-color: rgb(231, 228, 228);
+    border-radius: 5px;
+    height:5px;
+    position: relative;
+    display: inline-block;
+}
+.s1{
+    position: absolute;
+    height: 5px;
+    width: 290px;
+    max-width: 300px;
+    background-color: rgb(62, 193, 199);
+    border-radius: 5px;
+    display: block;
+
+}
+.two{
+    display: inline-block;
+}
+.d2{
+    width: 300px;
+    background-color: rgb(231, 228, 228);
+    border-radius: 5px;
+    height:5px;
+    position: relative;
+    display: inline-block;
+}
+.s2{
+    position: absolute;
+    height: 5px;
+    width: 200px;
+    max-width: 300px;
+    background-color: rgb(62, 193, 199);
+    border-radius: 5px;
+    display: block;
+}
+.d3{
+    width: 300px;
+    background-color: rgb(231, 228, 228);
+    border-radius: 5px;
+    height:5px;
+    position: relative;
+    display: inline-block;
+}
+.s3{
+    position: absolute;
+    height: 5px;
+    width: 250px;
+    max-width: 300px;
+    background-color: rgb(62, 193, 199);
+    border-radius: 5px;
+    display: block;
+
+}
+.d4{
+    width: 300px;
+    background-color: rgb(231, 228, 228);
+    border-radius: 5px;
+    height:5px;
+    position: relative;
+    display: inline-block;
+}
+.s4{
+    position: absolute;
+    height: 5px;
+    width: 300px;
+    max-width: 300px;
+    background-color: rgb(62, 193, 199);
+    border-radius: 5px;
+    display: block;  
+}
+.d5{
+    width: 300px;
+    background-color: rgb(231, 228, 228);
+    border-radius: 5px;
+    height:5px;
+    position: relative;
+    display: inline-block;
+}
+.s5{
+    position: absolute;
+    height: 5px;
+    width: 220px;
+    max-width: 300px;
+    background-color: rgb(62, 193, 199);
+    border-radius: 5px;
+    display: block;
+}
+.toz{
+    text-align: right;
+    position:absolute;
+    margin-top:5px;
+}
+.nem{
+    position: absolute;
+    margin-right: 200px;
+    margin-top:15px;
+}
+.nem div{
+    margin-bottom: 23px;
+}
+.how{
+    float: right;
+    margin-right: 510px;
+}
+.how h6{
+    margin-bottom: 20px;
+}
+.good{
+    font-size: 14px;
+    text-align: right;
+    direction: rtl;
+    color: #000;
+    margin-right: 50px;
+    max-width: 290px;
+}
+.good li{
+    margin:7px 0;
+}
+.bad{
+    font-size: 14px;
+    text-align: right;
+    direction: rtl;
+    display: inline-block;
+    max-width: 290px;
+    margin-top: 0 !important;
+    color: #000;
+    margin-right: 50px;
+}
+.gb{
+    display: inline-block;
+    margin-top: 0 !important;
+}
+table{
+    text-align: right;
+    margin-right: 100px;
+}
+table th{
+    text-align: right;
+    max-width:200px;
+    padding:16px;
+}
+table td{
+    width: 720px;
+}
+.ctab{
+    background: rgba(236, 236, 236, 0.548);
+}
+#menu2 h2{
+    text-align: right;
+}
+#menu2 .toz{
+    margin-top: 70px;
+}
+#menu2 .nem{
+    margin-top: 80px;
+}
+#menu2 .how{
+    margin-top: 65px;
+}
+#menu2 h5{
+    margin-bottom:40px !important ;
+}
+#menu2{
+    padding-top: 50px;
+    border: unset !important;
+    text-align: right ;
+}
+#menu2 .toz p{
+    margin-bottom:13px; 
+}
+#menu2 .cm{
+    margin-right: 600px !important;
+}
+.cm p{
+    margin: 30px 0 40px 0;
+    word-spacing: 3px;
+}
+.cm h2{
+    font-size: 23px;
+}
+.btn-cm{
+    border: unset;
+    padding-right: 0 !important;
+    color: #fff;
+    padding:13px 0 15px 50px;
+    background: rgb(62, 193, 199);
+    font-size: 18px;
+    margin-top: 20px;
+    position: relative;
+    transition: all 200ms;
+    margin-right: 100px;
+}
+.btn-cm span{
+    margin-right: 70px;
+}
+.btn-cm i{
+    position: absolute;
+    padding:5px 15px 8px 5px;
+    font-size: 20px;
+}
+.btn-cm:hover{
+    background: rgb(239, 90, 136);
+    color: #fff;
+    text-decoration: none;
+}
+.comment{
+    margin: 90px 200px 0 100px;
+}
+.nazar{
+    margin: 90px 10px 50px 0;
+    border-top: 1px rgb(223, 223, 223) solid ;
+    padding-top: 50px;
+}
+.ulc{
+    margin-top: 60px;
+}
+.ulc h4{
+    margin: 40px;
+    font-size: 16px;
+}
+.baad{
+    margin-top: 40px;
+}
+.god{
+    margin-top: 5px;
+    margin-left: 20px;
+}
+.ppp{
+    margin-top: 60px;
+}
+input[type="radio"] {
+    display: none;
+}
+.checkbox label {
+    display: inline-block;
+    position: relative;
+    width: 60px;
+    border: 1px rgb(201, 199, 199) solid;
+    border-radius: 7px;
+    background: #fff;
+    height: 25px;
+    margin-top: 10px;
+    transition: all 300ms;
+}
+.checkbox label span {
+    display: block;
+    position: absolute;
+    cursor: pointer;
+    left: 22px;
+    color: rgb(134, 134, 134);
+    transition: all 300ms;
+}
+.checkbox input:checked + label span {
+    color: #000;
+}
+.inp{
+    margin-right: 480px
+}
+.na{
+    padding:14px;
+}
+.bale{
+    margin: 0 5px
+}
+.inp h6{
+    margin-top: 25px;
+    font-size: 14px;
+    margin-left: 10px;
+}
+#menu3{
+    text-align: right;
+    margin-top: 50px;
+}
+#menu3 h5{
+    margin: 20px 0 30px 0
+}
+textarea{
+    border-radius: 7px;
+    border: 1px gray solid;
+    padding: 10px;
+}
+input[type="checkbox"] {
+    display: none;
+}
+.tik label {
+    display: inline-block;
+    position: relative;
+    width: 20px;
+    border: 1px rgb(201, 199, 199) solid;
+    border-radius: 2px;
+    background: #fff;
+    height: 20px;
+    margin-top: 10px;
+    transition: all 300ms;
+}
+.tik label span {
+    display: block;
+    position: absolute;
+    cursor: pointer;
+    opacity: 0;
+    right: px;
+    transition: all 300ms;
+}
+.tik input:checked + label span {
+    color: rgb(62, 193, 199);
+    opacity: 1;
+}
+.tik span i{
+    font-size: 21px;
+}
+.pors{
+    border: none;
+    padding: 15px 50px;
+    margin-top: 20px;
+    color:#fff;
+    background: gray;
+    font-size: 16px;
+    transition: all 300ms;
+}
+.pors:hover{
+   background:rgb(184, 182, 182);
+}
+.tik{
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.net{
+    margin-top: 30px;
+    margin-right: 10px;
+}
+.dowt{
+    margin-right: 224px;
+}
+.sug{
+    width: 1200px;
+    margin: 170px 90px 150px 90px;
+}
+.sug a{
+    text-decoration: none;
+    color:#000;
+    padding-left:60px;
+}
+.sug a:hover{
+    text-decoration: none;
+    color: #000;
+}
+.card{
+    border: none!important;
+    text-align:center;
+}
+.next{
+    z-index: 100;
+    margin: 208px 10px 0 1260px;
+    font-size: 90px;
+    position: absolute;
+}
+.next:hover{
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.46);
+}
+.prev{
+    z-index: 100;
+    margin: 208px 0 0 10px;
+    font-size: 90px;
+    position: absolute;
+}
+.prev:hover{
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.46);
+}

@@ -1,0 +1,306 @@
+
+.share{
+    border-radius: 50%;
+    margin:20px 0 0 40px;
+    padding: 9px 15px 8px 0;
+    float: left;
+    color: rgb(109, 108, 108);
+    font-size: 20px;
+    text-align:center;
+    transition: all 300ms;
+}
+.share:hover{
+    box-shadow: 0 0 5px rgb(180, 180, 180, .8);
+}
+.info{
+    direction: rtl;
+    float: left;
+    margin-left: 50px;
+    margin-top: 60px;
+    }
+.col{
+    position: relative;
+    margin-top: 10px;
+}
+.color{
+    float: right;
+    padding-right: 0;
+    position: absolute;
+}
+.pric{
+position: absolute;
+}
+.p-2{
+    margin-right: 125px;
+}
+.watch{
+    margin: 40px 0 10px 5px;
+}
+.watch-one{
+    border: 2px rgb(239, 90, 136) solid;
+}
+.watch-two{    
+    border: 2px rgb(62, 193, 199) solid;
+}
+.watch img{
+    margin-left: 10px;
+    transition: all 200ms linear; 
+    cursor: pointer;
+}
+
+.watch img:hover{
+    border: 2px rgb(239, 90, 136) solid;
+    opacity: .7;
+}
+.btn{
+    width: 250px;
+    margin:10px 0 0 0;
+    background-color: #fff !important;
+    border: 1px solid rgb(109, 108, 108, .5) !important;
+    color: #000 !important;
+    border-radius: 0 !important;
+    box-shadow: 0 0 0 #000 !important;
+    padding: 7px 8px 7px 0 !important;
+    text-align: right !important;
+
+}
+.container{
+    padding-right: 0 !important;
+}
+.dropdown-menu{
+    width: 250px !important;
+    text-align: right !important;
+    margin:3px 0 3px 0 !important;
+}
+.buy-btn{
+    color: #fff;
+    background-color: rgb(239, 90, 136);
+    padding: 8px 45px 8px 46px;
+    text-align: center; 
+    border: unset;
+    margin-top: 8px;
+    transition: all 200ms;
+    cursor: pointer;
+}
+.buy-btn:hover{
+    background-color: rgb(230, 74, 123);
+}
+.fas{
+    margin-left: 15px;
+
+}
+.fa-heart{
+    color: #fff;
+    filter: drop-shadow( 0 0 0 rgb(65, 65, 65));
+    text-shadow:  0 0 1px rgb(65, 65, 65);
+    text-shadow:  0 0 1px rgb(65, 65, 65);
+    font-size: 40px;
+    margin: 8px 10px 0 0 ;
+    transition: color 400ms ;
+    cursor: pointer;
+    
+}
+.fa-heart:hover{
+    color: rgb(239, 90, 136);
+    text-shadow: 0 0 0 #fff;
+    filter: drop-shadow( 0 0 0 #fff);
+}
+.war{
+margin: 10px 0 0 0;    
+}
+.war a{
+    margin:10px 3px;
+    text-decoration: none;
+    color: rgb(126, 126, 126);
+    font-style: oblique;
+    font-size: 11px;
+    transition: all 400ms;
+}
+.war a:hover{
+    color: #000;
+}
+ul{
+  color: rgb(77, 77, 77);
+  font-size: 13px;
+  padding-right: 10px;
+}
+.pro{
+    text-align: right;
+}
+.pushme{
+    background-color: #fff;
+    margin: 0 150px 0 0;
+    color:rgb(172, 172, 172);
+    border: unset;
+    transition: all 300ms;
+    text-align: center;
+    transition: all 200ms;
+
+}
+.pushme:hover{
+    color: rgb(43, 43, 43);
+}
+.fad1{
+    opacity: .5;
+    transition: all 300ms;
+
+}
+.fad2{
+    opacity: .2;
+    transition: all 300ms;
+
+}
+.fad{
+    opacity: 1;
+}
+.lli{
+    display: none;
+}
+.slid{
+  padding-top: 50px;
+  transition: all 200ms;
+  
+}
+.slidfor{
+    margin-left: 750px;
+}
+.slidfor img{
+    width: 380px;
+}
+.slidnav{
+width: 650px;
+margin: 10px 200px 10px 600px 
+
+}
+.slidnav img{
+    width: 100px;
+    border: 1px solid rgb(145, 145, 145);
+    padding: 2px;
+    transition: all 200ms;
+
+}
+.slidnav img:hover{
+    border: 2px rgb(62, 193, 199) solid;
+    padding:1px;   
+}
+input[type="radio"]{
+display: none;
+}
+.star11{
+    margin-right: 50px;
+}
+.star11 label{
+    display:inline-block;
+    position: relative;
+}
+.star11 label i{
+    position: absolute;
+}
+.star11 label span{
+    display:block;
+    position: absolute;
+    color: gold;
+}
+.star11 label span i{
+    opacity: 0;
+    margin: 0;
+    display:block;
+    position: absolute;
+    transition: all 200ms;
+
+}
+.star22{
+    margin-right: 50px;
+}
+.star22 label{
+    display:inline-block;
+    position: relative;
+}
+.star22 label i{
+    position: absolute;
+}
+.star22 label span{
+    display:block;
+    position: absolute;
+    color: gold;
+}
+.star22 label span i{
+    opacity: 0;
+    margin: 0;
+    display:block;
+    position: absolute;
+    transition: all 200ms;
+}
+.star33{
+    margin-right: 50px;
+}
+.star33 label{
+    display:inline-block;
+    position: relative;
+}
+.star33 label i{
+    position: absolute;
+}
+.star33 label span{
+    display:block;
+    position: absolute;
+    color: gold;
+}
+.star33 label span i{
+    opacity: 0;
+    margin: 0;
+    display:block;
+    position: absolute;
+    transition: all 200ms;
+}.star44{
+    margin-right: 50px;
+}
+.star44 label{
+    display:inline-block;
+    position: relative;
+}
+.star44 label i{
+    position: absolute;
+}
+.star44 label span{
+    display:block;
+    position: absolute;
+    color: gold;
+}
+.star44 label span i{
+    opacity: 0;
+    margin: 0;
+    display:block;
+    position: absolute;
+    transition: all 200ms;
+}
+.star55{
+    margin-right: 50px;
+}
+.star55 label{
+    display:inline-block;
+    position: relative;
+}
+.star55 label i{
+    position: absolute;
+}
+.star55 label span{
+    display:block;
+    position: absolute;
+    color: gold;
+}
+.star55 label span i{
+    opacity: 0;
+    margin: 0;
+    display:block;
+    position: absolute;
+    transition: all 200ms;
+}
+.hov{
+    width: 200px;
+    height: 50px;
+    margin: 100px 100px 100px 600px;
+    border:none;
+    border-radius:10px;
+    background: #000;
+}
